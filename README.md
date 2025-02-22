@@ -115,3 +115,5 @@ Further improvements could include:
 This model serves as a foundation for building advanced recommendation engines for streaming platforms, e-commerce, and more.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c84eb7f1-2115-46ec-bc87-0e7508d3421b)
