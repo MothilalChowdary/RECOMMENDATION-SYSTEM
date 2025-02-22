@@ -103,3 +103,15 @@ The function ensures users receive personalized movie recommendations based on l
 
 **7. Example Recommendation for a User :**
 To test the recommendation system, we generate movie suggestions for User 1 (indexed as 0 after adjustment). The system provides a list of highly-rated movies that the user has not yet seen.
+
+**Conclusion :**
+This implementation demonstrates a collaborative filtering-based recommendation system using deep learning with embeddings. By leveraging user and movie latent factors, it accurately predicts ratings and provides personalized recommendations.
+
+Further improvements could include:
+✅ Incorporating movie metadata (genres, actors, etc.).
+✅ Using a hybrid approach (content + collaborative filtering).
+✅ Hyperparameter tuning (embedding size, learning rate).
+
+This model serves as a foundation for building advanced recommendation engines for streaming platforms, e-commerce, and more.
+
+# OUTPUT
