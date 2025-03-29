@@ -1,12 +1,5 @@
 # RECOMMENDATION-SYSTEM
-**COMPANY**        : CODTECH IT SOLUTIONS
-**NAME**           : EDAMALAPATI MOTHILAL CHOWDARY
-**INTERN ID**      : CT12JJP
-**DOMAIN**         : MACHINE LEARNING
-**BATCH DURATION** : January 5th,2025 to March 5th,2025
-**MENTOR NAME**    : NEELA SANTHOSH
 
-# DESCRIPTION OF TASK :
 **Movie Recommendation System Using Neural Networks with Embeddings :**
 This code implements a movie recommendation system based on collaborative filtering using a neural network with embeddings. The dataset used is the MovieLens 100K dataset, which contains 100,000 user ratings for different movies. This implementation leverages TensorFlow/Keras to train a model that predicts movie ratings based on past user preferences. Additionally, it incorporates bias terms for better accuracy and evaluates the model using Root Mean Squared Error (RMSE).
 
